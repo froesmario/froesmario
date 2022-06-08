@@ -1,7 +1,6 @@
 # Sobre mim
 
 ## editando o perfil
-
 ###### teste
 
 - olá, eu sou @froesmario
