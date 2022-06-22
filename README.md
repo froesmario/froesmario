@@ -1,6 +1,6 @@
 # Sobre mim
 
- *editando o perfil*
+# *editando o perfil*
 ###### teste
 
 - **olá, eu sou @froesmario**
@@ -10,7 +10,7 @@
 - 🌱 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+- 👀
 - ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
