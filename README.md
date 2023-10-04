@@ -6,11 +6,12 @@
 - **olá, eu sou @froesmario**
 - :+1:O meu [e-mail](mario.froes@escola.pr.gov.br)
 - :+1: eu estou interessado em aprender novas linguagens
-- 👀 Eu estou interessado em aprender novas linguagens de programação
-- 🌱 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 👀
+- :+1: I'm interested in learning new programming languages
+- 👀 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
+- 🌱 I'm recently learning to program in Java Script and Scratch.
+- 🌱 He walks along the open road of love and life,surviving if he can
+- 💞️ As they took his soul, they stole his pride
+- 📫 As he faced the Sun, he cast no shadow
 - ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
