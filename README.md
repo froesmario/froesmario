@@ -4,7 +4,7 @@
 ###### teste
 
 - **olá, eu sou @froesmario**
-- :+1:O meu email é [e-mail](mario.froes@escola.pr.gov.br)
+- :+1:O meu [e-mail](mario.froes@escola.pr.gov.br)
 - :+1: eu estou interessado em aprender novas linguagens
 - 👀 Eu estou interessado em aprender novas linguagens de programação
 - 🌱 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
