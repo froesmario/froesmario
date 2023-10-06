@@ -1,9 +1,7 @@
 # Sobre mim ♥️🥰💳
-
 ## *stainwegvanhuy_THE HEDGEHOG*
-
+🦔
 #### CAST NO SHADOW
-
 - **olá, eu sou @froesmario**
 - :+1:O meu [e-mail](mario.froes@escola.pr.gov.br)
 - :+1: eu estou interessado em aprender novas linguagens
