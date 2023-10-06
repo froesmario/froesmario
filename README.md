@@ -12,7 +12,7 @@
 - 🌱 He walks along the open road of love and life,surviving if he can
 - 💞️ As they took his soul, they stole his pride
 - 📫 As he faced the Sun, he cast no shadow
-- ![](https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif)
+- ![](https://www.gifcen.com/wp-content/uploads/2021/03/sonic-gif-18.gif)
 - ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
