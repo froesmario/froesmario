@@ -9,7 +9,7 @@
 - 🌱 I'm recently learning to program in Java Script and Scratch.
 - 🌱 He walks along the open road of love and life,surviving if he can
 - 💞️ As they took his soul, they stole his pride
-- 📫 As he faced the Sun, he cast no shadow
+- 📫 As he faced the Sun, he cast no shadow 
 - ![]()
 - ![](https://www.gifcen.com/wp-content/uploads/2021/03/sonic-gif-18.gif)
 - ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
