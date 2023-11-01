@@ -9,8 +9,9 @@
 - 🌱 I'm recently learning to program in Java Script and Scratch.
 - 🌱 He walks along the open road of love and life,surviving if he can
 - 💞️ As they took his soul, they stole his pride
-- 📫 As he faced the Sun, he cast no shadow 
-- ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+- 📫 As he faced the Sun, he cast no shadow
+- ![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
