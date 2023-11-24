@@ -1,4 +1,4 @@
-# Sobre mim 🇲🇨🇧🇷🇦🇹**MARIO**
+# Sobre mim **MARIO**
 ## *stainwegvanhuy_THE HEDGEHOG*🦔
 #### CAST NO SHADOW 
 - **olá, eu sou @froesmario**
