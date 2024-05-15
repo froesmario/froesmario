@@ -3,7 +3,7 @@
 #### CAST NO SHADOW 
 - **olá, eu sou @froesmario**
 - :+1:O meu [e-mail](mario.froes@escola.pr.gov.br)
-- :+1: eu estou interessado em aprender novas linguagens
+- :+1: eu estou interessado em aprender novas linguagens de programação
 - :+1: I'm interested in learning new programming languages
 - 👀 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
 - 🌱 I'm recently learning to program in Java Script and Scratch.
