@@ -1,3 +1,4 @@
+![](https://media0.giphy.com/media/mdfPpglf2c0QxED151/giphy.gif?cid=6c09b952odzsicepdiv1xta420sm3jn717x0oov3yfptw0vv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 # Sobre mim **MARIO**
 ## *stainwegvanhuy_THE HEDGEHOG*🦔
 #### CAST NO SHADOW 
@@ -10,7 +11,8 @@
 - 🌱 He walks along the open road of love and life,surviving if he can
 - 💞️ As they took his soul, they stole his pride
 - 📫 As he faced the Sun, he cast no shadow
-- ![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+- ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)
 ![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
@@ -31,4 +33,10 @@
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
 ![](https://www.gifcen.com/wp-content/uploads/2021/03/sonic-gif-18.gif)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://media0.giphy.com/media/mdfPpglf2c0QxED151/giphy.gif?cid=6c09b952odzsicepdiv1xta420sm3jn717x0oov3yfptw0vv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![]()
+![]()
+![]()
+
 
