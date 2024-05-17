@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/mdfPpglf2c0QxED151/giphy.gif?cid=6c09b952odzsicepdiv1xta420sm3jn717x0oov3yfptw0vv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5MKiMYjz1RRWCllxVmdE-so37lRwf1AGkK0pd40EQCcCxSe-rqDdfJsUIly0FVtQoHMTxCSq7VXpTdSueWvT0yosgUwoEgIILZC5AMDGeJ3iTlYg_czkhoPzNwdTRHyc-tOkZ4IbjpLq/s1600/Gif+Sonic+25+anos.gif)
 # Sobre mim **MARIO**
 ## *stainwegvanhuy_THE HEDGEHOG*🦔
 #### CAST NO SHADOW 
@@ -11,7 +11,8 @@
 - 🌱 He walks along the open road of love and life,surviving if he can
 - 💞️ As they took his soul, they stole his pride
 - 📫 As he faced the Sun, he cast no shadow
-- ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)
 ![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
