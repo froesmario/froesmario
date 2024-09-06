@@ -1,3 +1,8 @@
+<!---especial repositório sobre o github --->
+
+<!---comentário, serve para esconder ou ocultar dados --->
+![sonic](https://i.pinimg.com/originals/69/0e/3f/690e3f05869c1bf43b48803e61c67932.gif)
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5MKiMYjz1RRWCllxVmdE-so37lRwf1AGkK0pd40EQCcCxSe-rqDdfJsUIly0FVtQoHMTxCSq7VXpTdSueWvT0yosgUwoEgIILZC5AMDGeJ3iTlYg_czkhoPzNwdTRHyc-tOkZ4IbjpLq/s1600/Gif+Sonic+25+anos.gif)
 # Sobre mim **MARIO**
 ## *stainwegvanhuy_THE HEDGEHOG*🦔
