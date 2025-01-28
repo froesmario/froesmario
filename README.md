@@ -2,12 +2,13 @@
 
 <!---comentário, serve para esconder ou ocultar dados --->
 ![sonic](https://i.pinimg.com/originals/69/0e/3f/690e3f05869c1bf43b48803e61c67932.gif)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5MKiMYjz1RRWCllxVmdE-so37lRwf1AGkK0pd40EQCcCxSe-rqDdfJsUIly0FVtQoHMTxCSq7VXpTdSueWvT0yosgUwoEgIILZC5AMDGeJ3iTlYg_czkhoPzNwdTRHyc-tOkZ4IbjpLq/s1600/Gif+Sonic+25+anos.gif)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 # Sobre mim **MARIO**
 ## *stainwegvanhuy_THE HEDGEHOG*🦔
