@@ -4,6 +4,7 @@
 ![sonic](https://i.pinimg.com/originals/69/0e/3f/690e3f05869c1bf43b48803e61c67932.gif)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5MKiMYjz1RRWCllxVmdE-so37lRwf1AGkK0pd40EQCcCxSe-rqDdfJsUIly0FVtQoHMTxCSq7VXpTdSueWvT0yosgUwoEgIILZC5AMDGeJ3iTlYg_czkhoPzNwdTRHyc-tOkZ4IbjpLq/s1600/Gif+Sonic+25+anos.gif)
+
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
@@ -49,8 +50,9 @@
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
 ![](https://www.gifcen.com/wp-content/uploads/2021/03/sonic-gif-18.gif)
-![](https://media0.![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)giphy.com/media/mdfPpglf2c0QxED151/giphy.gif?cid=6c09b952odzsicepdiv1xta420sm3jn717x0oov3yfptw0vv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![](https://www.icegif.com/wp-content/uploads/2023/12/icegif-582.gif)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+
 ![]()
 ![]()
 
