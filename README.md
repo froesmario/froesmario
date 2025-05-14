@@ -1,5 +1,5 @@
 <!---comentários --->
-![]()
+
 ![]()
 <!---especial repositório sobre o github --->
 
@@ -8,10 +8,6 @@
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5MKiMYjz1RRWCllxVmdE-so37lRwf1AGkK0pd40EQCcCxSe-rqDdfJsUIly0FVtQoHMTxCSq7VXpTdSueWvT0yosgUwoEgIILZC5AMDGeJ3iTlYg_czkhoPzNwdTRHyc-tOkZ4IbjpLq/s1600/Gif+Sonic+25+anos.gif)
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 
 
 # Sobre mim **MARIO**
@@ -27,6 +23,11 @@
 - 💞️ As they took his soul, they stole his pride
 - 📫 As he faced the Sun, he cast no shadow
 - ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
